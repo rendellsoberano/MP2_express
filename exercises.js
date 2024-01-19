@@ -3,7 +3,7 @@ const exe = {
     {
       beginner: [
         {
-          abodominals: [
+          abdominals: [
             {
               name: "Hollow Hold",
               equipment: "None",
@@ -20,7 +20,7 @@ const exe = {
               img: "../img/abs_easy3.jpg",
             },
           ],
-          Shoulder: [
+          shoulder: [
             {
               name: "Battle Mage",
               equipment: "None",
@@ -92,7 +92,7 @@ const exe = {
       ],
       intermediate: [
         {
-          abodominals: [
+          abdominals: [
             {
               name: "One Minute Plank",
               equipment: "None",
@@ -109,7 +109,7 @@ const exe = {
               img: "../img/abs_med3.jpg",
             },
           ],
-          Shoulder: [
+          shoulder: [
             {
               name: "Power 15",
               equipment: "None",
@@ -181,7 +181,7 @@ const exe = {
       ],
       expert: [
         {
-          abodominals: [
+          abdominals: [
             {
               name: "Planche Prep",
               equipment: "None",
@@ -198,7 +198,7 @@ const exe = {
               img: "../img/abs_hard3.jpg",
             },
           ],
-          Shoulder: [
+          shoulder: [
             {
               name: "One Arm Push-up Prep",
               equipment: "None",
